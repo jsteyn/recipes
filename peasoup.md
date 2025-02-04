@@ -4,3 +4,4 @@
 - potatoes (£5.00)
 # Instructions
 - shell the peas
+- put peas into pan
